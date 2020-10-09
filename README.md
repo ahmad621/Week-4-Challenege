@@ -1,6 +1,10 @@
+- What was the challenge?
+
 # Week-4-Challenege
 Calculator
  Week 4 Challenge
+
+
 
 ## Tasks
 
@@ -29,8 +33,10 @@ The final result should look something like this:
 You should create a public Github repository that contains the code for the calculator.
 You are also expected to make a README.md file and to fill this README with information of this challenge. It should contain the following headers.
 
-- What was the challenge?
+
 - How I expected the challenge to go.
+
 - What went well?
+
 - What didn't go as planned?
 - Possible improvements for future challenges
